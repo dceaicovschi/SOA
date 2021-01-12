@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea
+*.iml
+/target
+*.jpg
+*.png
+/dataSources.local.xml
